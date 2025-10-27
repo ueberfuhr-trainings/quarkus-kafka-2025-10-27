@@ -1,0 +1,12 @@
+**/target
+**/.*
+!**/.gitignore
+!.github
+!.editorconfig
+**/*.iml
+**/*.private.*
+
+# Maven Wrapper
+!.mvn
+!mvnw
+!mvnw.cmd
