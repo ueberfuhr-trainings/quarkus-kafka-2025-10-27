@@ -13,5 +13,6 @@
 - [Quarkus Properties](properties.md)
 - [Exception Handling](exception-handling.md)
 - [JSON Schema & Schema Registry](json-schema.md)
+- [CloudEvents](cloud-events.md)
 - [Apache AVRO](avro.md)
 - [Testing](testing.md)
